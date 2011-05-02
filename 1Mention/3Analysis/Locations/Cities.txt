@@ -1,0 +1,2085 @@
+	11691
+Aachen	5
+Aalborg	1
+Aalsmeer	2
+Abbots Langley	1
+Abbotsford	1
+Abbottabad	1
+Aberdeen	5
+Abergele	1
+Abha	1
+Abu Dhabi	26
+Abuja	1
+Abuja Municipal Area Council	2
+Acworth	3
+Addlestone	1
+Adelaide	8
+Aden	1
+Adliya	1
+Afyonkarahisar	1
+Agoura Hills	1
+Ahlen	1
+Ahmadabad	23
+Ahmadi	1
+Ahmadnagar	1
+Ahoada East	1
+Aix-en-Provence	1
+Aizumisato-machi	2
+Ajman	2
+Akron	2
+Al Ain	2
+Al Dawadmy	2
+Al Khobar	6
+Al Rayyan	1
+Alajuelita	1
+Albany	1
+Albrandswaard	1
+Alcalá de Henares	1
+Alcester	1
+Alcochete	1
+Aleppo	2
+Alexandria	7
+Alford	2
+Algiers	1
+Alkmaar	12
+Allahabad	2
+Allentown	3
+Almaty	1
+Almelo	2
+Almere	20
+Alpharetta	2
+Alphen aan Den Rijn	6
+Alpine	1
+Altamonte Springs	1
+Altindag	10
+Alton	1
+Ambon	1
+Amersfoort	9
+Ames	1
+Amherst	1
+Amityville	1
+Amman	20
+Amonines	15
+Amstelveen	3
+Amsterdam	189
+Anaheim	1
+Anchorage	3
+Andir	1
+Andover	1
+Andújar	1
+Ann Arbor	5
+Annapolis	3
+Antakya	1
+Antofagasta	1
+Antolín Del Campo	1
+Antwerp	3
+Apeldoorn	4
+Appleton	3
+Aptos	1
+Arad	1
+Arcadia	1
+Århus	1
+Arica	1
+Arles	1
+Arlington	13
+Armagh	1
+Arnhem	7
+Artesia	1
+Asansol	2
+Aschaffenburg	1
+Asemrowo	1
+Asheville	3
+Aspen	1
+Assen	3
+Astana Anyar	1
+Asuncion	1
+Athens	5
+Atlanta	81
+Auburn	3
+Auckland	2
+Aue-Fallstein	1
+Augsburg	2
+Aurangabad	1
+Aurora	2
+Austin	30
+Austinburg	1
+Aylesbury	3
+Aylesford	1
+Baar	1
+Baarn	1
+Bad Camberg	1
+Bad Kissingen	1
+Bad Salzuflen	1
+Baguio City	1
+Bahawalpur	1
+Bakersfield	2
+Baku	2
+Bala-Cynwyd	1
+Baldwin	1
+Balikpapan	4
+Ballaugh	1
+Balliang	1
+Ballina	1
+Ballymena	2
+Baltimore	21
+Bandar Kuala Lumpur	29
+Bandar Kuala Terengganu	1
+Bandar Seri Begawan	1
+Bandung Wetan	1
+Bang Chak	1
+Bangalore	80
+Bangkalan	1
+Bangor	1
+Banjarmasin	10
+Banjarsari	1
+Bantar Kalong	1
+Bantargebang	1
+Bantry	1
+Barcelona	14
+Bärenbach	1
+Barendrecht	1
+Barking	2
+Barneveld	1
+Barnsley	2
+Baros	1
+Barrio Capire	1
+Bartlesville	1
+Barueri	1
+Baruta	2
+Basking Ridge	1
+Bastrop	1
+Batam City	1
+Bath	3
+Baton Rouge	5
+Batu	1
+Batununggal	2
+Baubau	2
+Bauru	1
+Bay City	1
+Bay Shore	1
+Beach Haven	2
+Beaverton	1
+Bedford	2
+Beemster	1
+Beesel	1
+Beijing	8
+Beji	2
+Bekasi Barat	5
+Bekasi Selatan	11
+Bekasi Timur	7
+Bekasi Utara	2
+Belém	1
+Belfast	10
+Belgrade	5
+Bellevue	3
+Bellmore	1
+Bells	1
+Belo Horizonte	3
+Bend	1
+Benemerita de S. Cristobal	1
+Bensheim	1
+Benton Harbor	1
+Berchtesgaden	1
+Bergambacht	1
+Bergen	5
+Bergen op Zoom	3
+Berisso	1
+Berkeley	11
+Berlin	102
+Bernardsville	1
+Berne	1
+Bethesda	3
+Bethlehem	1
+Beverly	1
+Beverly Hills	5
+Beverwijk	1
+Bhatgaon	1
+Bhopal	2
+Bhubaneswar	3
+Bhusawal	1
+Bideford	1
+Bielefeld	2
+Biggleswade	1
+Bikaner	1
+Billings	1
+Binghamton	2
+Binnenmaas	1
+Birmingham	48
+Birsfelden	1
+Bishop Auckland	1
+Bispingen	1
+Blackburn	1
+Blackpool	2
+Bladel	1
+Blankenheim	1
+Bloomington	1
+Blountsville	1
+Blue Ridge	1
+Bo Phut	1
+Boca Raton	1
+Bochum	4
+Bodenheim	1
+Bodø	1
+Bogor	1
+Bogor Timur	1
+Bogota	12
+Boise	4
+Bojong Loa Kidul	1
+Bojongsoang	1
+Bollebygd	2
+Bologna	1
+Bolton	5
+Bonn	23
+Bontang	1
+Boone	1
+Boonton	1
+Bordeaux	1
+Borden	1
+Bordon	1
+Borgholzhausen	1
+Borken	1
+Borne	1
+Bornem	1
+Bornheim	1
+Boston	59
+Bothell	1
+Boulder	12
+Boulder Creek	1
+Bourne End	1
+Bournemouth	3
+Bowie	1
+Bowling Green	1
+Bozeman	1
+Bozhou	1
+Bradford	7
+Braintree	1
+Brampton	4
+Brandon	1
+Branford	1
+Brasilia	4
+Bratislava	2
+Bray	1
+Brazil	1
+Brecksville	1
+Breda	2
+Bremen	2
+Brentwood	1
+Brescia	1
+Bridgehampton	1
+Brighton	23
+Brisbane	11
+Bristol	23
+Brockville	1
+Bronx	4
+Brooklyn	10
+Brossard	1
+Brunswick	5
+Brussels	10
+Bucharest	16
+Budakeszi	1
+Budapest	5
+Budaun	1
+Buena Park	1
+Buenos Aires City	10
+Buffalo	10
+Buffalo City	7
+Bungendore	1
+Buraydah	1
+Buraymi	1
+Buren	1
+Burlington	3
+Burnaby	3
+Burton Upon Trent	1
+Bury	2
+Busan	5
+Butler	2
+Butte	1
+Butzbach	1
+Buxtehude	1
+Byron	1
+Bærum	2
+Caerphilly	1
+Cakung	4
+Calgary	19
+Cali	1
+California City	1
+Calliham	5
+Cambria	1
+Cambridge	27
+Cameron	1
+Campbell	1
+Canberra	14
+Cannock	3
+Canterbury	1
+Canton	1
+Cape Town	18
+Capelle aan Den Ijssel	1
+Carboneras	1
+Cardiff	20
+Cardiff by the Sea	1
+Cardona	1
+Carlisle	3
+Carmarthen	1
+Carnation	1
+Caroni	1
+Carpentersville	1
+Carson City	1
+Carteret	1
+Carterville	1
+Caruthers	1
+Cary	2
+Castle Rock	1
+Castricum	3
+Catskill	1
+Cave Creek	1
+Cazenovia	1
+Cebu	8
+Cedar City	1
+Cedar Rapids	2
+Celle	1
+Cempaka Putih	2
+Centreville	1
+Centro	2
+Centro De Monterrey	5
+Cerritos	1
+Chabats	1
+Chacao	3
+Chandigarh	7
+Chandler	2
+Chang Moi	3
+Chania	2
+Chantilly	1
+Chapalita Oriente	1
+Chapel Hill	2
+Charleston	5
+Charlestown	1
+Charlotte	13
+Charlottesville	2
+Charlottetown	1
+Châteauguay	1
+Chatham-Kent	1
+Checotah	1
+Cheltenham	2
+Chemnitz	1
+Chennai	45
+Cheonan-Si	1
+Chester	3
+Chesterfield	1
+Chevy Chase	1
+Chicago	113
+Chichester	2
+Chico	2
+Chino	2
+Chinon	1
+Chios	1
+Chippewa Falls	1
+Chisinau	2
+Choa Chu Kang	1
+Christchurch	4
+Ciamis	2
+Cianjur	1
+Cibitung	2
+Cibolo	1
+Ciego de Ávila	1
+Cikarang	1
+Cikeruh	2
+Cilacap Selatan	1
+Cilandak	6
+Ciledug	3
+Cimahi Selatan	1
+Cimahi Tengah	3
+Cimanggis	6
+Cimenyan	3
+Cincinnati	13
+Cipatat	1
+Cipayung	3
+Cipocok Jaya	1
+Cipondoh	3
+Ciputat	12
+Ciracas	4
+Cirebon Barat	2
+Cirebon Utara	1
+Cisarua	2
+Citamiang	1
+City of Gold Coast	2
+Clarbeston Road	1
+Clearwater	1
+Cleckheaton	2
+Cleethorpes	1
+Clementi	1
+Clermont-Ferrand	2
+Cleveland	13
+Cleves	1
+Clifton	1
+Cluj-Napoca	1
+Clyde	1
+Coalinga	1
+Coblenz	3
+Coblong	5
+Cody	3
+Coevorden	1
+Coihaique	1
+Coimbatore	5
+Colchester	3
+Cold Spring	1
+College Park	3
+College Station	3
+Colmenar Viejo	1
+Colne	1
+Cologne	16
+Colombo	4
+Colorado Springs	3
+Columbia	5
+Columbia Falls	1
+Columbus	17
+Concón	1
+Concord	1
+Connersville	1
+Constance	1
+Constanta	1
+Coolidge	1
+Copenhagen	17
+Coquitlam	1
+Coraopolis	1
+Cork	1
+Cornwall	1
+Corona	2
+Corpus Christi	1
+Corregidora	1
+Corvallis	1
+Corydon	1
+Costa Mesa	1
+Cottingham	1
+Coventry	8
+Covina	2
+Craigavon	1
+Craiova	1
+Crawley	4
+Crestwood	1
+Creve Coeur	1
+Crewe	1
+Crieff	1
+Crofton	1
+Crook	1
+Culemborg	3
+Cupertino	2
+Curitiba	1
+Curug	1
+Cypress	1
+Dacula	1
+Daegu	2
+Dagenham	1
+Dalhousie	1
+Dallas	30
+Dalton	1
+Damansara	2
+Dammam	5
+Dantumadiel	1
+Danville	1
+Dar es Salaam	3
+Darmstadt	1
+Dartford	1
+Datteln	1
+Davao City	1
+Daventry	1
+Davidsonville	2
+Dayeuh Luhur	1
+Dayton	2
+Daytona Beach	2
+De Bilt	1
+De Wolden	1
+Deadwood	1
+Dedham	1
+Deerfield Beach	1
+Deferiet	1
+Dehradun	1
+Delft	3
+Delmenhorst	1
+Delray Beach	1
+Den Helder	1
+Denpasar Barat	1
+Denpasar Selatan	1
+Denpasar Timur	3
+Denton	4
+Denver	31
+Depok	3
+Derby	7
+Des Moines	7
+Detroit	19
+Deventer	3
+Dewsbury	2
+Dhahran	11
+Dhaka	9
+Dharmsala	1
+Dholka	1
+Diemen	1
+Dijon	2
+Diksmuide	1
+Dirksland	1
+Doetinchem	2
+Doha	20
+Dolega	1
+Dom Pedrito	1
+Doncaster	1
+Donegal	1
+Dordrecht	6
+Dortmund	3
+Dorval	1
+Dothan	2
+Dover	2
+Downers Grove	2
+Dresden	9
+Drogheda	1
+Dronten	1
+Dubai	137
+Dublin	30
+Duitama	1
+Duluth	1
+Dundee	2
+Dunedin	2
+Dunfermline	1
+Dungannon	1
+Dunstable	1
+Durango	1
+Duren Sawit	6
+Durham	6
+Düsseldorf	3
+Eagle	1
+Eagle Pass	1
+Earth	1
+East Boldon	1
+East Grinstead	1
+East Lansing	1
+East Meadow	1
+East Norwich	1
+East Orange	2
+East St Louis	1
+Eastbourne	1
+Ede	2
+Edgewater	1
+Edinburgh	27
+Edmonton	13
+Eemnes	1
+Egg Harbor Twp	1
+Eindhoven	9
+Ekurhuleni	1
+El Dokki	1
+El Labban	2
+El Nassra	3
+El Paso	3
+El Sahel	17
+El Segundo	2
+El Vendrell	1
+Elberta	1
+Elgin	1
+Elizabeth	3
+Elizabeth City	2
+Elizabethtown	1
+Elk Grove	1
+Elkhart	1
+Elm Grove	1
+Elmwood Park	1
+Ely	2
+Emmen	3
+Emsworth	1
+Enfield	4
+Englewood	1
+Enniscorthy	1
+Enschede	6
+Ephrata	1
+Eppenrod	1
+Erlangen	1
+Erldunda	4
+Ermelo	2
+Ermont	1
+Esbo	3
+Eskilstuna	1
+Espelkamp	1
+Essen	2
+Ethekwini	3
+Ettlingen	1
+Eugene	2
+Eureka Springs	1
+Everett	1
+Évreux	1
+Exeter	4
+Fair Haven	1
+Fairfax	1
+Fairfield	1
+Fall River	1
+Falls Church	1
+Fareham	1
+Fargo	1
+Faridabad	1
+Farlington	1
+Farmington	2
+Farnborough	1
+Faversham	1
+Fayetteville	3
+Federal Way	1
+Fenton	1
+Fet	1
+Fifield	1
+Flagstaff	1
+Flatwoods	1
+Florence	1
+Florianópolis	1
+Flushing	5
+Folsom	1
+Forest	1
+Forest Hills	3
+Forks	1
+Forreston	1
+Fort Bragg	1
+Fort Collins	1
+Fort Lauderdale	6
+Fort Mill	1
+Fort Monmouth	1
+Fort Myers	1
+Fort Pierre	1
+Fort Wayne	1
+Fort Worth	8
+Fortaleza	1
+Frankfurt (Oder)	1
+Frankfurt Am Main	12
+Franklin	3
+Frederick	1
+Fredericksburg	1
+Freeland	1
+Freiburg	5
+Freienbach	1
+Fremont	1
+Fresno	2
+Friedeburg	2
+Friesoythe	12
+Frisco	2
+Fukuoka-shi	1
+Fukuyama-shi	1
+Funchal	4
+Fuzhou	1
+Førde	1
+Gainesville	3
+Galapagar	1
+Galt	3
+Galveston	1
+Galway	5
+Gambir	78
+Gamping	1
+Gandhinagar	1
+Garden City	1
+Garner	1
+Garut	2
+Gaston	2
+Gatineau	1
+Gäufelden	1
+Gayamsari	2
+Gaza City	4
+Geelong	1
+Geisenfeld	1
+Geislingen an der Steige	1
+Geldermalsen	1
+Gelsenkirchen	1
+Geneva	17
+Genoa	1
+Genteng	11
+Gentofte	1
+George Town	1
+Ger	1
+Gerlach	1
+Germantown	1
+Germering	1
+Ghaziabad	3
+Ghazipur	1
+Ghent	4
+Ghotki	1
+Giessen	2
+Gig Harbor	2
+Gilbert	1
+Gilroy	1
+Gimpo-Si	1
+Girardot	5
+Gladstone	1
+Glasgow	36
+Glastonbury	1
+Glendale	3
+Gloucester	1
+Gochzhen	2
+Goes	1
+Goirle	1
+Goleta	1
+Gombe	1
+Gondomanan	13
+Göppingen	1
+Gorinchem	2
+Gorontalo	1
+Gothenburg	3
+Gottikere	1
+Göttingen	1
+Gouda	1
+Graafstroom	1
+Gran Morelos	1
+Grand Haven	1
+Grand Junction	1
+Grand Prairie	1
+Grand Rapids	2
+Grand-Charmont	1
+Grande Prairie	1
+Grandville	1
+Granite City	1
+Grantham	1
+Grass Valley	1
+Grave	1
+Great Barrier Island	13
+Great Lakes	1
+Greater Napanee	1
+Greater Noida	1
+Greeley	1
+Green Bay	1
+Greenbelt	2
+Greenhithe	1
+Greensboro	8
+Greenville	5
+Grimbergen	1
+Grimsby	1
+Grogolpetamburan	4
+Groningen	26
+Guaicaipuro	1
+Guanajuato Centro	2
+Guangzhou	1
+Guatemala City	1
+Guayaquil	2
+Gudhibiya	1
+Guildford	3
+Gujranwala	2
+Gujrat	2
+Gunung Putri	1
+Gurgaon	12
+Gwangju	1
+Haaksbergen	1
+Haarlem	7
+Haarlemmerliede-Spaarnwoude	1
+Haarlemmermeer	6
+Hadley	1
+Hagerstown	1
+Haidarabad	5
+Halifax	6
+Haltom City	1
+Hamburg	37
+Hamilton	7
+Hamm	1
+Hamminkeln	1
+Hampton	1
+Hanover	4
+Harare	1
+Harau	2
+Hardenberg	1
+Harderwijk	4
+Hardinxveld-Giessendam	2
+Hardwick	1
+Harlan	1
+Harlingen	1
+Harlow	1
+Harrisburg	1
+Harrogate	2
+Harrow	2
+Hartford	3
+Hartlepool	1
+Hastings	1
+Hattersheim Am Main	1
+Havana	1
+Havelock	1
+Hawally	1
+Hayes	1
+Hays	1
+Haywards Heath	2
+Hazleton	1
+Heerenveen	1
+Heerhugowaard	2
+Heerlen	3
+Heidelberg	2
+Heiloo	1
+Helmond	3
+Helsinki	4
+Helston	2
+Hemel Hempstead	1
+Henderson	2
+Hendrik-Ido-Ambacht	1
+Hengelo	1
+Henley-on-Thames	2
+Hennef (Sieg)	1
+Hereford	3
+Herent	1
+Hermosa Beach	1
+Herndon	2
+Heverlee	1
+High Wycombe	5
+Hildesheim	1
+Hillside	1
+Hilversum	30
+Hitchin	2
+Hobart	1
+Hoboken	1
+Höchstädt an der Donau	1
+Holenberg	1
+Holly Springs	1
+Hollywood	7
+Holmfirth	2
+Hong Kong	1
+Honolulu	9
+Hoorn	2
+Horsham	1
+Hortolândia	2
+Hot Springs National Park	1
+Hougang	1
+Hounslow	3
+Houston	38
+Houten	1
+Hubli-Dharwad	1
+Huddersfield	2
+Hudson	1
+Huizhou	1
+Hulu Kelang	3
+Huntington	1
+Huntington Beach	4
+Huntsville	2
+Hutchinson	1
+Huwei Township	1
+Hyattsville	3
+Hyderabad	30
+Idyllwild	1
+Ijsselstein	2
+Ilford	2
+Ilir Timur II	1
+Illizi	1
+Ilmenau	2
+Independence	7
+Indianapolis	14
+Indio	2
+Inglewood	1
+Iowa City	2
+Ipswich	2
+Irbid	1
+Iribarren	2
+Iruña	1
+Irvine	4
+Irvington	2
+Iserlohn	1
+Ishinomaki-shi	1
+Islamabad	114
+Isleworth	1
+Itajá	1
+Ithaca	1
+Ituiutaba	1
+Ivybridge	1
+Iyesi	1
+Jackson	4
+Jacksonville	11
+Jagakarsa	5
+Jaipur	5
+Jalandhar	3
+Jalingo	1
+Jamaica Plain	2
+Jamshedpur	1
+Jari Al Shaikh	1
+Jatiasih	5
+Jatinegara	3
+Jatisampurna	2
+Jeddah	39
+Jeffersonville	1
+Jelenia Gora	1
+Jena	1
+Jensen Beach	1
+Jeonju-Si	1
+Jersey City	4
+Jerusalem	4
+Jessup	1
+Jhelum	2
+Jodhpur	1
+Jodoigne	1
+Johannesburg	32
+Johar Baru	1
+Jönköping	1
+Joppa	1
+Juarez	12
+Juniper Green	1
+Jupiter	1
+Juwana	1
+Kaag en Braassem	2
+Kabul	8
+Kachan	1
+Kaduna	2
+Kailua Kona	2
+Kalamazoo	2
+Kali Deres	1
+Kalibo	1
+Kalispell	1
+Kampar	1
+Kampen	1
+Kanchipuram	1
+Kangra	1
+Kannapolis	1
+Kanpur	4
+Kansas City	11
+Karachi	309
+Karang Pilang	1
+Karlsruhe	1
+Karnal	1
+Kartal	19
+Kasemen	2
+Kasihan	1
+Kathmandu	7
+Katonah	1
+Kaunas	1
+Kawasaki-shi	1
+Kebayoran Baru	10
+Kebayoran Lama	6
+Kebon Jeruk	3
+Kebumen	1
+Kedaton	1
+Kehl	1
+Kelang	1
+Kelapa Gading	2
+Kelowna	1
+Kemayoran	3
+Kembangan	1
+Kendari	1
+Kenner	1
+Kent	2
+Kents Hill	1
+Kerkrade	1
+Kew Gardens	1
+Khairabad	2
+Khamees Moshait	1
+Kharipur	1
+Khartoum	1
+Khlong San	1
+Khlong Toei	1
+Kiel	6
+Kiev	8
+Kilifi	1
+Kilmarnock	2
+Kingston	2
+Kipfenberg	1
+Kisszállás	1
+Kisumu	1
+Kitchener	6
+Knoxville	2
+Knysna	1
+Kobe-shi	1
+Kochi	12
+Kohat	1
+Kolkata	41
+Kollam	2
+Konak	2
+Königswinter	1
+Korendijk	1
+Kortenberg	1
+Kortrijk	1
+Kota Bogor Barat	2
+Kota Bogor Tengah	10
+Kota Bogor Utara	2
+Kottayam	1
+Kozhikode	2
+Kramat Jati	5
+Kraton	1
+Krefeld	1
+Krembangan	1
+Kristiinankaupunki	1
+Kuala Lumpur	5
+Kungwini	1
+Kuningan	1
+Kuta	3
+Kuta Raja	2
+Kyle	2
+Kyoto-shi	3
+La Ceiba	1
+La Grange	1
+La Habra	1
+La Jolla	2
+La Mesa	2
+La Mirada	1
+La Paz	1
+La Piedad	1
+La Puente	1
+La Verne	1
+Lafayette	1
+Lafayette Hill	1
+Lagoa	1
+Lagos	2
+Lahore	206
+Lakar Santri	1
+Lake Charles	1
+Lake Linden	3
+Lake Orion	1
+Lake Villa	1
+Lakeland	1
+Lakeview	1
+Lakewood	2
+Lancaster	3
+Lanham	1
+Lansdale	1
+Lansdowne	1
+Lansing	1
+Lansingerland	6
+Laramie	1
+Larkana	1
+Las Condes	1
+Las Palmas de Gran Canaria	1
+Las Vegas	31
+Laubach	2
+Lauda-Königshofen	1
+Lauderdale	1
+Laufenburg (Baden)	1
+Laurel	1
+Lausanne	1
+Laweyan	1
+Lawrenceville	2
+Le Cannet-des-Maures	1
+Leamington Spa	1
+Lebanon	1
+Leeds	29
+Leeuwarden	3
+Leghorn	1
+Leiah	1
+Leicester	11
+Leiden	8
+Leiderdorp	1
+Leidschendam-Voorburg	2
+Leipzig	9
+Lelystad	6
+Lemahabang	2
+Lenexa	1
+Leutershausen	1
+Leuven	6
+Lewes	1
+Lexington	6
+Libertador	38
+Liberty	1
+Lidköping	1
+Liège	2
+Lillesand	1
+Lima	9
+Limo	2
+Lincoln	2
+Linden	1
+Lindsborg	1
+Lingfield	1
+Linz	1
+Lippstadt	1
+Lisbon	5
+Lisle	1
+Little Rock	4
+Littlefield	1
+Littleton	1
+Liverpool	9
+Livingston	2
+Llanes	1
+Lochem	1
+Logan	1
+Logansport	1
+London	825
+Long Beach	5
+Long Island City	1
+Longmont	2
+Looe	2
+Lookout Mountain	1
+Los Altos	1
+Los Angeles	231
+Los Olivos	1
+Louisville	12
+Lowokwaru	1
+Loysville	1
+Lubbock	3
+Lübeck	2
+Lucknow	7
+Ludhiana	2
+Ludlow	1
+Lugano	1
+Lutherville Timonium	1
+Luton	10
+Lynchburg	1
+Lynn	2
+Lyon	3
+Lærdal	1
+Maarssen	2
+Maastricht	5
+Machuelo Abajo	1
+MacKenzie	1
+Mâcon	1
+Macungie	2
+Mad River	1
+Madinah	2
+Madison	8
+Madison Heights	1
+Madrid	24
+Madurai	3
+Mae Ngon	1
+Magalia	1
+Magdeburg	3
+Magog	1
+Maidstone	3
+Mainz	3
+Makasar	2
+Makkah	1
+Málaga	1
+Malden	1
+Malegaon	2
+Malibu	2
+Malmö	5
+Malvern	1
+Mampang Prapatan	3
+Manado	6
+Manchester	67
+Mandaue City	1
+Mangalore	1
+Manhattan	2
+Manhattan Beach	1
+Manila	21
+Mannheim	3
+Manor	1
+Manresa	1
+Mansfield	2
+Maple Heights	1
+Maple Valley	1
+Maplewood	1
+Maracaibo	6
+Marblehead	1
+Marburg	1
+March	1
+Mardan	1
+Margaasih	1
+Margadana	1
+Marietta	3
+Marina Del Rey	1
+Marion	2
+Markham	5
+Maro-Myeon	1
+Marseille	3
+Martapura	1
+Marum	1
+Marysville	1
+Maryville	1
+Masan-Si	1
+Matale	1
+Mataram	1
+Matraman	1
+Maumee	2
+Medan Barat	3
+Medan Johar	18
+Medan Maimun	6
+Medan Selayang	1
+Medan Sunggal	2
+Medellin	2
+Medford	2
+Media	1
+Mekhtar	5
+Melbourne	52
+Memphis	4
+Menteng	1
+Meppel	3
+Merek	1
+Merritt Island	1
+Mesa	1
+Mesquite	1
+Mesuji	1
+Metuchen	1
+Meudon	1
+Mhow Cantt	1
+Miami	28
+Miami Beach	4
+Middelburg	6
+Middlesbrough	3
+Middletown	2
+Midland	2
+Midlothian	1
+Mijen	1
+Milan	6
+Mill Valley	1
+Millburn Twp	1
+Milo	6
+Milton Keynes	6
+Milwaukee	7
+Mineola	1
+Minford	1
+Minneapolis	28
+Misawa-shi	1
+Mission Viejo	1
+Mississauga	11
+Mississippi Mills	1
+Missoula	2
+Mlati	2
+Modesto	2
+Mojácar	1
+Mojo Tengah	1
+Mönchengladbach	1
+Monrovia	3
+Mons	1
+Mont-Tremblant	1
+Montabaur	1
+Montara	1
+Montclair	2
+Monterey	1
+Montevallo	1
+Montfoort	2
+Montpelier	1
+Montpellier	1
+Montreal	75
+Montreuil-sur-Epte	1
+Montrose	1
+Moorestown	1
+Morgantown	1
+Moringen	1
+Morioka-shi	1
+Morristown	2
+Morrisville	1
+Moscow	4
+Mossel Bay	2
+Mountain View	12
+Mountlake Terrace	1
+Msukaligwa	1
+Mt Vernon	2
+Mülheim an der Ruhr	1
+Multan	3
+Mumbai	142
+Munich	33
+Münster	8
+Murfreesboro	3
+Muscat	6
+Mwanza	2
+Myrtle Beach	2
+Mysore	3
+Naas	1
+Nabire	2
+Nagpur	1
+Nairobi	11
+Nampa	1
+Nan Sabaris	1
+Nanaimo	1
+Nantes	1
+Naperville	1
+Naples	2
+Nashik	2
+Nashua	1
+Nashville	29
+Natchitoches	1
+Navan	1
+Navi Mumbai	1
+Neder-Betuwe	2
+Neihu District	3
+Nelson	1
+Nelson House	1
+Nephi	1
+Neubrandenburg	1
+Neuchâtel	1
+New Albany	2
+New Berlin	1
+New Britain	1
+New Brunswick	2
+New Delhi	94
+New Haven	4
+New Orleans	11
+New Philadelphia	1
+New York	495
+Newark	4
+Newbridge	1
+Newbury	1
+Newcastle	3
+Newcastle Upon Tyne	13
+Newmarket	1
+Newport	5
+Newport Beach	3
+Newquay	2
+Newton Center	1
+Newton Chikhli Kalan	1
+Newtownards	1
+Ngamprah	1
+Niagara Falls	1
+Niantic	1
+Nice	1
+Niederdorla	5
+Nieuw-Lekkerland	1
+Nieuwegein	5
+Nieuwkoop	1
+Nijmegen	22
+Niles	1
+Niterói	1
+Nittedal	1
+Nogal	1
+Noida	8
+Nong Prue	1
+Noordenveld	2
+Noordoostpolder	3
+Noordwijk	2
+Noordwijkerhout	1
+Nora	1
+Norcross	2
+Norfolk	6
+Norman	1
+North Bergen	1
+North Ferrisburg	1
+North Las Vegas	1
+North Vancouver	1
+North Wales	2
+Northampton	4
+Northbrook	1
+Norwich	5
+Nottingham	11
+Novi Sad	1
+Nuevo Baztán	1
+Nuneaton	2
+Ñuñoa	1
+Nunspeet	1
+Nuremberg	3
+Oak Brook	1
+Oakland	4
+Oakville	5
+Oberhausen	1
+Obersulm	1
+Odate-shi	1
+Oegstgeest	3
+Offenbach Am Main	1
+Ogden	1
+Oirschot	1
+Oisterwijk	1
+Ojai	1
+Okara	2
+Oklahoma City	4
+Oldambt	1
+Oldenburg (Oldb.)	1
+Oldenzaal	1
+Oldham	2
+Oliver	1
+Omaha	2
+Oneonta	1
+Ontario	1
+Oosterhout	2
+Ooststellingwerf	1
+Opolis	1
+Oradea	1
+Oran Rp	3
+Orange	2
+Orangeville	1
+Orlando	13
+Ormond Beach	1
+Oromocto	1
+Osaka-shi	6
+Osan-Si	1
+Osasco	1
+Oshawa	2
+Oshkosh	1
+Oslo	50
+Oss	1
+Otley	1
+Ottawa	40
+Ouagadougou	1
+Ouder-Amstel	1
+Oudergem	1
+Ouderkerk	1
+Overbetuwe	1
+Overland Park	1
+Oviedo	1
+Owensboro	1
+Oxford	19
+Pa Yu	1
+Pacific Grove	1
+Padang Barat	1
+Padang Timur	1
+Pademangan	1
+Padua	1
+Palangkaraya	2
+Palm Beach	2
+Palm Beach Gardens	1
+Palm City	1
+Palm Desert	1
+Palm Harbor	1
+Palma	4
+Palma Sola	1
+Palmerah	7
+Palmira	1
+Palo Alto	10
+Palu	2
+Pamulang	5
+Panaji	1
+Panama City	3
+Pancoran	3
+Pancoran Mas	13
+Panihati	1
+Paris	92
+Park Ridge	1
+Parkville	2
+Parsberg	1
+Parsippany	1
+Parsons	1
+Pasadena	2
+Pasar Minggu	10
+Pasar Rebo	3
+Pasig	2
+Paso Robles	1
+Patiala	2
+Patna	1
+Patra	1
+Peabody	1
+Pembroke	1
+Penjaringan	2
+Pensacola	1
+Penzance	1
+Peoria	1
+Perakam	1
+Perth	13
+Pesanggrahan	2
+Peshawar	16
+Petaling	1
+Peterborough	4
+Petersberg	1
+Petersburg	1
+Peto	1
+Petrópolis	1
+Peudada	1
+Pforzheim	2
+Phawong	1
+Philadelphia	42
+Phnom Penh	3
+Phoenix	18
+Pickering	3
+Pijnacker-Nootdorp	1
+Piscataway	2
+Pittsburg	1
+Pittsburgh	17
+Piura	1
+Plainsboro	1
+Plainville	1
+Plano	3
+Pleasanton	2
+Plymouth	2
+Pocatello	1
+Point Pleasant Beach	1
+Point Reyes Station	1
+Pomona	1
+Pompano Beach	2
+Pompey	1
+Pondokaren	2
+Pondokgede	5
+Pontianak	2
+Pontyclun	1
+Poole	2
+Poolesville	2
+Porong	1
+Port Glasgow	1
+Port St Lucie	5
+Port Townsend	1
+Port Washington	1
+Port-au-Prince	4
+Port-de-Paix	1
+Portage La Prairie	1
+Portland	33
+Porto	6
+Porto Alegre	3
+Portsmouth	3
+Pottstown	2
+Prabumulih Timur	1
+Prague	6
+Prambanan	1
+Praya	1
+Prescott	1
+Prestatyn	2
+Preston	3
+Prince Albert	1
+Princeton	3
+Pristina	1
+Providence	4
+Providencia	1
+Provo	1
+Pullman	1
+Pulo Gadung	2
+Pune	18
+Putrajaya	2
+Putten	1
+Qalamat Nadqan	3
+Qingdao	1
+Quantico	1
+Quebec City	2
+Queen City	1
+Queens Village	1
+Queenstown	1
+Quemado	1
+Quetta	3
+Quezon City	1
+Quissac	1
+Quito	2
+Rabat	1
+Rabwah	1
+Radford	1
+Rafha	3
+Raipur	1
+Raleigh	14
+Ramgarh Cantonment	1
+Rampur	1
+Rancho Santa Fe	1
+Randolph	1
+Rapid City	1
+Raurkela	1
+Råwalpindi	12
+Raxaul Bazar	1
+Reading	5
+Red Deer	2
+Redding	4
+Redmond	2
+Redwater	1
+Redwood	1
+Redwood City	2
+Reethauli	1
+Regina	1
+Reigate	1
+Reims	1
+Rennes	1
+Reston	2
+Retford	1
+Reykjavik	2
+Rheden	2
+Rice	1
+Rich Square	1
+Richmond	12
+Richmond Hill	2
+Ridderkerk	2
+Ridgewood	1
+Riehen	1
+Riga	2
+Rio Branco	1
+Rio De Janeiro	16
+Ripley	2
+Riverdale	1
+Riyadh	46
+Robersonville	6
+Rochdale	2
+Rochester	8
+Rockville	2
+Roerdalen	1
+Roermond	2
+Rohtak	1
+Rojales	1
+Rome	29
+Roosendaal	5
+Roquebrune-Cap-Martin	1
+Rosemead	1
+Rosenheim	2
+Roseville	1
+Rotherham	1
+Rotterdam	67
+Roy	1
+Rugby	1
+Rugeley	1
+Rumbai	2
+Rungkut	4
+Rüsselsheim	1
+S A K O	1
+Saarbrücken	6
+Sablonceaux	1
+Sacramento	15
+Saffig	1
+Sagamihara-shi	1
+Saguenay	1
+Saint-Paul	1
+Saint-Raphaël	1
+Saitama-shi	1
+Sale	1
+Salem	2
+Salford	1
+Salisbury	4
+Salmaniya	2
+Salt Lake City	8
+Salta	1
+Saltash	1
+Salvador	1
+Salzburg	3
+Samarinda	3
+Samoa	1
+Samranrat	25
+San Angelo	1
+San Antonio	15
+San Bruno	2
+San Carlos	1
+San Clemente	1
+San Cristobal	1
+San Diego	32
+San Dimas	2
+San Fernando	1
+San Francisco	75
+San Jose	4
+San Juan Antiguo	3
+San Juan Capistrano	1
+San Juan De Dios	5
+San Juan de la Maguana	1
+San Lorenzo	1
+San Mateo	3
+San Miguel De Tucumán	2
+San Pedro De La Paz	1
+San Pedro Sula	2
+San Ramon	1
+Sandston	1
+Sandwich	1
+Sangar	1
+Sankt Augustin	1
+Sankt Gallen	2
+Sankt Gilgen	1
+Sant Julià de Ramis	1
+Santa Ana	3
+Santa Barbara	7
+Santa Clara	4
+Santa Cruz	2
+Santa Fe	3
+Santa Monica	6
+Santa Rosa	1
+Santiago	15
+Santo Domingo	4
+Santurce	1
+São Luís	1
+Sao Paulo	14
+São Sebastião	1
+Sapporo-shi	1
+Sarasota	1
+Saratoga Springs	1
+Saskatoon	1
+Sassari	1
+Sausalito	2
+Sawah Besar	2
+Scarborough	2
+Schaarbeek	1
+Schenectady	2
+Schiedam	4
+Schifferstadt	1
+Schijndel	1
+Schoonhoven	1
+Schwedt/Oder	1
+Schwelm	1
+Schwentinental	1
+Scott Air Force Base	1
+Scottsbluff	1
+Scottsdale	3
+Scranton	2
+Scunthorpe	2
+Seaton	1
+Seattle	48
+Sedan	8
+Segundo	1
+Seixal	1
+Selby	1
+Semarang Barat	2
+Semarang Tengah	1
+Semarang Timur	7
+Semarang Utara	1
+Seoul	50
+Sequim	1
+Serang	2
+Seregan	1
+Serpong	2
+Setiabudi	7
+Setu	1
+Setul	1
+Sevierville	1
+Seville	1
+Sewon	1
+Seyhan	1
+Shah Faisalabad	6
+Shah Pur City	1
+Shanghai	4
+Sharjah	9
+Shaver Lake	2
+Shawinigan	1
+Sheffield	10
+Shelby	6
+Sherbrooke	1
+Sherman Oaks	3
+Shildon	1
+Shimonoseki-shi	1
+Shipley	2
+Shippensburg	1
+Shiroishi-shi	1
+Shoreham-by-Sea	1
+Shoup	1
+Sialkot	4
+Siasi	1
+Sibu	1
+Sicklerville	2
+Sidcup	1
+Sidi Belyout	1
+Sidney	1
+Sidoarjo	2
+Siegburg	2
+Siegen	1
+Siem Reap	1
+Siena	1
+Sigtuna	1
+Silang	1
+Silva	1
+Silver City	1
+Silver Spring	6
+Simón Bolívar	1
+Simsbury	1
+Singapore	2
+Singosari	1
+Sint-Niklaas	1
+Sint-Truiden	1
+Sintra	1
+Sinzig	1
+Sioux City	1
+Sittard-Geleen	1
+Situbondo	1
+Skelmersdale	1
+Sliedrecht	1
+Slough	3
+Smallingerland	5
+Smyrna	1
+Sneek	2
+Snoqualmie	1
+Sochi	1
+Socorro	4
+Soest	1
+Sofia	1
+Solidaridad	1
+Solihull	2
+Solingen	1
+Solon	1
+Somerset	2
+Sonoma	1
+Sooji-gu	1
+Soreang	1
+Sotillo	1
+South Bend	2
+South Burlington	1
+South Croydon	2
+South Padre Island	1
+South Shields	1
+South Stormont	1
+Southampton	12
+Southfield	2
+Southport	1
+Southwest Harbor	7
+Spanish Fort	1
+Spennymoor	1
+Spokane	4
+Spotswood	1
+Spring	1
+Spring Arbor	1
+Spring Hill	1
+Spring Lake	1
+Springfield	11
+Springfield Gardens	2
+Springville	1
+Squamish	1
+Srinagar	9
+St Albans	2
+St Albert	1
+St Augustine	1
+St Catharines	2
+St Louis	15
+St Paul	7
+St Petersburg	3
+St-Donat	1
+St-Maxime-du-Mont-Louis	1
+St. Petersburg	2
+Stadskanaal	1
+Staffhorst	1
+Stafford	1
+Stamford	1
+Stanford	1
+State College	1
+Stavanger	2
+Steenwijkerland	1
+Steinbach	1
+Sterling Heights	1
+Stirling	2
+Stockholm	23
+Stockport	3
+Stockton	4
+Stockton-on-Tees	2
+Stoke-on-Trent	5
+Stonington	1
+Storuman	1
+Strasbourg	1
+Stratford	1
+Stratford Upon Avon	1
+Strathcona County	2
+Stroud	1
+Stuart	4
+Stuttgart	12
+Suan Chitrada	1
+Sucre	2
+Sudbury	1
+Sugar Land	1
+Suitland	1
+Sukajadi	1
+Sukaraja	2
+Sukarame	1
+Sukawati	1
+Sukmajaya	1
+Sukun	4
+Sulaimania	1
+Sumedang Utara	1
+Sumur Bandung	23
+Sunderland	3
+Sundern (Sauerland)	3
+Sungai Buloh	4
+Sungguminasa	3
+Sunnyvale	1
+Surbiton	2
+Surrey	1
+Sutton Coldfield	1
+Swansea	3
+Swindon	7
+Sydney	110
+Sylhet	1
+Syracuse	4
+Tacoma	4
+Taifa	1
+Talang Kelapa	1
+Talca	1
+Tallahassee	2
+Taman	1
+Tamansari	1
+Tambora	1
+Tambun	2
+Tampa	8
+Tampere	2
+Tamworth	1
+Tanah Abang	7
+Tanahsereal	3
+Tanakpur	1
+Tandes	1
+Tangerang	7
+Tanjung Karang Pusat	1
+Tanjung Karang Timur	1
+Tanjung Priok	1
+Tårnby	2
+Tarumajaya	1
+Tawang	1
+Taylor	1
+Taylors	1
+Tebet	8
+Teddington	1
+Tegal Barat	1
+Tegalrejo	1
+Tehran	35
+Tel Aviv	3
+Telford	2
+Teluk Betung Utara	1
+Teluk Bintan	2
+Telukjambe	3
+Temanggung	1
+Temecula	1
+Tempe	2
+Temuco	1
+Tenggarong	1
+Terneuzen	1
+Tezpur	1
+Thane	1
+The Hague	45
+The Plains	1
+Thessaloniki	1
+Thiruvananthapuram	3
+Tholen	2
+Thousand Oaks	2
+Thrissur	1
+Tienen	1
+Tilburg	14
+Timmins	1
+Tokamachi-shi	1
+Tokyo	30
+Toledo	1
+Tomball	1
+Tondano	1
+Topeka	2
+Toride-shi	1
+Toronto	192
+Torquay	1
+Torrance	1
+Torrevieja	1
+Tortona	1
+Toulouse	2
+Townsville	1
+Trail	1
+Tremont	1
+Trencin	1
+Trenton	5
+Treves	1
+Troisdorf	1
+Tromsø	1
+Trondheim	5
+Trout Run	1
+Troy	2
+Tshwane	4
+Tucson	5
+Tulsa	2
+Tunbridge Wells	3
+Tunis	2
+Tupelo	1
+Turin	3
+Twodot	4
+Tyrone	1
+Uckfield	1
+Uden	1
+Ujungpandang	8
+Ulsan	3
+Um Alhassam	1
+Unaizah	1
+Unid Obrero Ctm Culhuacan Secc 10	1
+Unidad Guerrerense	1
+Union	1
+Uniontown	1
+Uppsala	2
+Urayasu-shi	1
+Urbana	4
+Urzhum	1
+Utrecht	61
+Utrechtse Heuvelrug	2
+Uttoxeter	14
+Uxbridge	1
+Vadodara	1
+Valencia	7
+Valhalla	1
+Valladolid	1
+Vallejo	1
+Valley Forge	1
+Valparaiso	2
+Vancleave	1
+Vancouver	67
+Varanasi	3
+Vargas	1
+Veenendaal	1
+Velika Gorica	1
+Vellore	1
+Venice	4
+Venlo	2
+Vennesla	1
+Ventura	2
+Venustiano Carranza 1ra Secc	3
+Vesoul	1
+Vestby	1
+Viborg	1
+Vicente López	1
+Vicenza	1
+Vicksburg	1
+Victoria	10
+Vienna	29
+Viersen	6
+Vila Velha	2
+Vilvoorde	1
+Virginia Beach	3
+Visakhapatnam	2
+Viseu	1
+Vista	1
+Vize	22
+Vlaardingen	1
+Voorschoten	1
+Vught	2
+Wageningen	1
+Wakefield	1
+Waldenburg	1
+Wallingford	1
+Walsall	1
+Waltham	1
+Walton-on-Thames	1
+Wang Ket	1
+Warendorf	2
+Warrington	1
+Waru	2
+Warwick	1
+Washburn	1
+Washington	277
+Waterloo	6
+Watertown	1
+Watford	1
+Waukesha	1
+Wayne	2
+Waynesburg	1
+Waynesville	1
+Weert	1
+Weeze	1
+Weinheim	1
+Weiterstadt	2
+Wellesley	1
+Wellington	6
+Wells	1
+Welwyn Garden City	2
+Wembley	1
+Werkendam	1
+Wesel	1
+West Berlin	1
+West Frankfort	1
+West Hollywood	2
+West Milford	1
+West Palm Beach	4
+West Yarmouth	1
+Westerveld	1
+Westfield	1
+Westland	2
+Westport	1
+Wetumpka	1
+Wevelgem	1
+Weybridge	1
+Whitby	2
+Whitestone	1
+Whitstable	1
+Wichita	3
+Wickford	1
+Wierden	1
+Wiesbaden	3
+Wigan	2
+Wijchen	3
+Wijdemeren	2
+Wilkes-Barre	1
+Williamsburg	2
+Willis	1
+Wilmington	3
+Winchester	4
+Windermere	1
+Windsor	1
+Winnipeg	13
+Winston-Salem	1
+Winterthur	1
+Wirral	1
+Woerden	5
+Woking	1
+Wolfeboro	1
+Wolfsburg	2
+Wolverhampton	2
+Wonokromo	1
+Wood Buffalo	2
+Wood-Ridge	1
+Woodbridge	1
+Woodbrook	1
+Woodlands	1
+Woodstock	2
+Woolwich	1
+Worcester	3
+Wrexham	1
+Wungu	1
+Wûnseradiel	1
+Wuppertal	1
+Würzburg	1
+Xico Centro	1
+Yamula Baraji	1
+Yellowknife	1
+Yerevan	2
+Yokohama-shi	3
+York	7
+Ypsilanti	1
+Yuba City	1
+Yuma	1
+Zaanstad	2
+Zacapoaxtla	1
+Zandvoort	2
+Zeist	17
+Zirndorf	1
+Zoetermeer	5
+Zona Centro	1
+Zuidplas	1
+Zurich	12
+Zutphen	2
+Zwartewaterland	2
+Zwijndrecht	1
+Zwolle	14
+고잔2동	1
+송포동	1
+의창동	1
+이매2동	1
+중앙동	4

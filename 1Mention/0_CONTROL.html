@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>TwitPull</title>
+</head>
+
+
+
+<body>
+<strong>1: Data Collection</strong><br></br>
+<hr />
+<strong>Stream API:</strong> Enter the keyword/s you would like to track:<br></br>
+<form name="input" action="CLI.php" method="post">
+Track: <input type="text" name="track" />
+<br></br>
+ Time: <input type="text" name="time" /> sec
+<br></br> 
+<input type="submit" value="Stream" />
+</form>
+<br></br><br></br>  
+
+<strong>2: Data Processing</strong><br></br>
+<hr />
+<strong>User Location Cleanup:</strong> Enter the table you wish to clean up, and optionally define a subset:<br></br>
+<form name="input" action="2Processing/userLocCleanup.php" method="post">
+Table: <input type="text" name="table" value ="tweets_final" />
+<br></br>
+Where: <input type="text" name="subset" value="`search_id` =23" />
+<br></br> 
+<input type="submit" value="Clean" />
+</form>
+<br></br><br></br>  
+
+<strong>3: Data Analysis</strong><br></br>
+<hr />
+<strong>Pajek Export:</strong> Enter the table you wish to draw data from, and optionally define a subset:<br></br>
+<form name="input" action="3Analysis/netExport.php" method="post">
+Table: <input type="text" name="table" value ="tweets_final" />
+<br></br>
+Where: <input type="text" name="subset" value="`search_id` =23" />
+<br></br> 
+File to Export: <input type="text" name="file" value="e.g. Bonnie" />
+<br></br> 
+<input type="submit" value="Export" />
+</form>
+<br></br> 
+
+<strong>Locations List:</strong> Enter the table you wish to draw data from, and optionally define a subset:<br></br>
+<form name="input" action="3Analysis/listLocs.php" method="post">
+Table: <input type="text" name="table" value ="users" />
+<br></br>
+Where: <input type="text" name="subset" value="`search_id` =23" />
+<br></br> 
+<input type="submit" value="Export" />
+</form>
+<br></br>
+
+<strong>URL/Domain List:</strong> Enter the table you wish to draw data from, and optionally define a subset:<br></br>
+<form name="input" action="3Analysis/locationURL.php" method="post">
+Table: <input type="text" name="table" value ="urls" />
+<br></br>
+Where: <input type="text" name="subset" value="`search_id` =23" />
+<br></br> 
+<input type="submit" value="Export" />
+</form>
+<br></br>
+
+<strong>GMaps Visualization:</strong> Enter the table you wish to draw data from, and optionally define a subset:<br></br>
+<form name="input" action="3Analysis/GmapsVisualization.php" method="post">
+Table: <input type="text" name="table" value ="tweets_final" />
+<br></br>
+Where: <input type="text" name="subset" value="`search_id` =23" />
+<br></br> 
+<input type="submit" value="View" />
+</form>
+
+</body>
+</html>

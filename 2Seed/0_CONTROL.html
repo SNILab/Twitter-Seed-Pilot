@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Seeder</title>
+</head>
+
+
+
+<body>
+<strong>1: Seed a User</strong><br></br>
+<hr />
+<form name="input" action="1Collection/SEED.php" method="post">
+Screen Name: <input type="text" name="seed" />
+<br></br>
+Distance: <input type="text" name="dist" />
+<br></br> 
+Relationships:
+<br></br>
+<input type="checkbox" name="follow"/> Follow/Friends
+<br></br> 
+<input type="checkbox" name="lists"/> Lists
+<br></br>
+<input type="submit" value="Start" />
+</form>
+<br></br><br></br>  
+
+
+<strong>2: Export</strong><br></br>
+<hr />
+<strong>Pajek Export:</strong> Creates a .net file<br></br>
+<form name="input" action="2Export/Pajek2.php" method="post">
+Where: <input type="text" name="subset" value="`search_id` =23" />
+<br></br> 
+Relationships:
+<br></br>
+<input type="checkbox" name="follow"/> Follow/Friends
+<br></br> 
+<input type="checkbox" name="lists"/> Lists
+<br></br>
+<input type="submit" value="Export" />
+</form>
+<br></br>  
+
+
+<strong>GMaps Visualization:</strong> Define a subset:<br></br>
+<form name="input" action="3Analysis/GmapsVisualization.php" method="post">
+Where: <input type="text" name="subset" value="`search_id` =23" />
+<br></br>
+Relationships:
+<br></br>
+<input type="checkbox" name="follow"/> Follow/Friends
+<br></br> 
+<input type="checkbox" name="lists"/> Lists
+<br></br>
+<input type="submit" value="View" />
+</form>
+
+</body>
+</html>
